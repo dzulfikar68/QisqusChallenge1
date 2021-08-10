@@ -1,0 +1,3 @@
+rootProject.name = 'Qisqus Challenge'
+include 'main'
+
